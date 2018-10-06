@@ -10,5 +10,4 @@ export const APP_ROUTES:Routes=[
   {path:'cadastro',component:CadastroComponent},
 ];
 
-export const routing:ModuleWithProviders=RouterModule.forRoot(APP_ROUTES);
 
